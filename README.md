@@ -1,6 +1,6 @@
-## PART 4
+## PART 2
 
-Implement an API that get vehicles from a another service. This service could be a database or something else.
+Add security check on get vehicles.
 
 ### Sequence Diagram
 
