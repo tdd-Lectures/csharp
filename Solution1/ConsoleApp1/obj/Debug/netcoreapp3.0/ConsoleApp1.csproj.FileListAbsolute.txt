@@ -1,0 +1,13 @@
+/Users/ctw00428-admin/Documents/csharp/Solution1/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.deps.json
+/Users/ctw00428-admin/Documents/csharp/Solution1/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.runtimeconfig.json
+/Users/ctw00428-admin/Documents/csharp/Solution1/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.runtimeconfig.dev.json
+/Users/ctw00428-admin/Documents/csharp/Solution1/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.dll
+/Users/ctw00428-admin/Documents/csharp/Solution1/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.pdb
+/Users/ctw00428-admin/Documents/csharp/Solution1/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/ctw00428-admin/Documents/csharp/Solution1/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ctw00428-admin/Documents/csharp/Solution1/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/ctw00428-admin/Documents/csharp/Solution1/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.AssemblyInfo.cs
+/Users/ctw00428-admin/Documents/csharp/Solution1/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/ctw00428-admin/Documents/csharp/Solution1/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.dll
+/Users/ctw00428-admin/Documents/csharp/Solution1/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.pdb
+/Users/ctw00428-admin/Documents/csharp/Solution1/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.genruntimeconfig.cache

@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using Vehicles.Services;
 
@@ -18,7 +20,9 @@ namespace Vehicles.Controllers
         [HttpGet]
         public IActionResult GetVehicles(string userId)
         {
-            throw new NotImplementedException();
+            var vehicles = _services.GetVehicles(userId);
+            if (vehicles.Any()) return Ok(vehicles);
+            return NotFound();
         }
     }
 }
